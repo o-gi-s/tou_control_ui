@@ -1,6 +1,6 @@
 {
   "name": "tou_controller",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "o-gi-s",
   "dependencies": {
     "@material-ui/core": "4.12.3",
